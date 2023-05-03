@@ -1,2 +1,2 @@
 Hello, world!
-Welcome, to featureX
+Welcome again, to featureY
